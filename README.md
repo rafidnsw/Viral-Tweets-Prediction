@@ -1,5 +1,5 @@
 # Viral-Tweets-Prediction
-This is my first attempt competing in a data science competition. Due to the terms &amp; conditions of the competition, I can not upload the dataset yet. In this projects we tried to do end-to-end process in data science methodology that includes Data Preparation, Exploratory Data Analysis, Data preprocessing, and Machine Learning Modelling.
+This is my first experience competing in a data science competition. Due to the terms &amp; conditions of the competition, I can not upload the dataset yet. In this projects we tried to do end-to-end process in data science methodology that includes Data Preparation, Exploratory Data Analysis, Data preprocessing, and Machine Learning Modelling.
 
 ### Data Preparation
 In the data preparation, we imported the datasets to our notebook. There are 3 tables in total which consist of train & test dataset, and users information. In this stage we also checked any null values and finally also in this stage we merge the whole sets into one single set in a purpose of making a dataset that easier to handle later in the preprocessing stage
